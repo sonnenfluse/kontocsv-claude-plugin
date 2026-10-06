@@ -8,6 +8,6 @@
     "url": "https://www.kontocsv.de"
   },
   "homepage": "https://www.kontocsv.de/en/claude-connector",
-  "repository": "https://github.com/McJeffrey/kontocsv-claude-plugin",
+  "repository": "https://github.com/sonnenfluse/kontocsv-claude-plugin",
   "license": "SEE LICENSE"
 }
