@@ -8,6 +8,6 @@ Supported destinations include Standard Bank CSV, DATEV, Lexware, MT940, CAMT.05
 
 Documentation: https://www.kontocsv.de/en/claude-connector
 
-Privacy: https://www.kontocsv.de/en/privacy/claude
+Privacy policy: https://www.kontocsv.de/en/privacy/claude
 
 Support: support@kontocsv.de

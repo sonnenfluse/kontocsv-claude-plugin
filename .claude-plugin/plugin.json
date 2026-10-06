@@ -9,7 +9,5 @@
   },
   "homepage": "https://www.kontocsv.de/en/claude-connector",
   "repository": "https://github.com/sonnenfluse/kontocsv-claude-plugin",
-  "license": "SEE LICENSE",
-  "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://www.kontocsv.de/en/privacy/claude"
+  "license": "SEE LICENSE"
 }
