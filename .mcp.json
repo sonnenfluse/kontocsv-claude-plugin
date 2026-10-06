@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kontocsv": {
+      "type": "http",
+      "url": "https://www.kontocsv.de/api/mcp/claude"
+    }
+  }
+}
