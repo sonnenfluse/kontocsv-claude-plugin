@@ -5,9 +5,23 @@
   "description": "Convert bank statements and transaction CSVs into validated accounting-ready exports through the KontoCSV remote MCP connector.",
   "author": {
     "name": "KontoCSV",
-    "url": "https://www.kontocsv.de"
+    "url": "https://www.kontocsv.de",
+    "email": "support@kontocsv.de"
   },
   "homepage": "https://www.kontocsv.de/en/claude-connector",
   "repository": "https://github.com/sonnenfluse/kontocsv-claude-plugin",
-  "license": "SEE LICENSE"
+  "license": "SEE LICENSE",
+  "keywords": [
+    "bank-statements",
+    "accounting",
+    "bookkeeping",
+    "datev",
+    "xero",
+    "exact-online"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://www.kontocsv.de/en/claude-connector",
+  "supportUrl": "https://www.kontocsv.de/support",
+  "privacyPolicyUrl": "https://www.kontocsv.de/en/privacy/claude",
+  "termsOfServiceUrl": "https://www.kontocsv.de/en/terms"
 }
