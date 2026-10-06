@@ -18,10 +18,5 @@
     "datev",
     "xero",
     "exact-online"
-  ],
-  "icon": "./.claude-plugin/icon.png",
-  "documentationUrl": "https://www.kontocsv.de/en/claude-connector",
-  "supportUrl": "https://www.kontocsv.de/support",
-  "privacyPolicyUrl": "https://www.kontocsv.de/en/privacy/claude",
-  "termsOfServiceUrl": "https://www.kontocsv.de/en/terms"
+  ]
 }
