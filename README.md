@@ -10,4 +10,8 @@ Documentation: https://www.kontocsv.de/en/claude-connector
 
 Privacy policy: https://www.kontocsv.de/en/privacy/claude
 
-Support: support@kontocsv.de
+Support: https://www.kontocsv.de/support
+
+Support email: support@kontocsv.de
+
+Terms of service: https://www.kontocsv.de/en/terms
